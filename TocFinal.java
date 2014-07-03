@@ -1,3 +1,11 @@
+/*
+ * THEORY OF COMPUTATION - HW4
+ * 資工系104乙班
+ * 沙江益 - Aquile R. Sanchez
+ * F74007094
+ * File Name: TocFinal.java
+*/
+
 import java.io.*;
 import java.net.*;
 import java.util.*;
